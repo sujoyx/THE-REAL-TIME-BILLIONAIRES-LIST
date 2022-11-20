@@ -1,6 +1,6 @@
 # Web Scraping With Python
 
-# THE-REAL-TIME-BILLIONAIRES-LIST
+# THE-REAL TIME BILLIONAIRES LIST
 
 🖥️ The Things I used in this project
 - Tool - Jupyter notebook
